@@ -1,10 +1,4 @@
-# Script Name     : output.py
-# Author          : Howard Zhang
-# Created         : 14th June 2018
-# Last Modified	  : 4th May 2019
-# Version         : 1.2
-# Modifications	  : 1.2 - Added the new option of modifying the number of items to be sorted.
-# Description     : Processing user's input, Playing animations and generating animation files.
+
 
 import random
 import os
