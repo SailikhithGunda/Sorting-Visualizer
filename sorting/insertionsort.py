@@ -1,10 +1,4 @@
-# Script Name     : insertionsort.py
-# Author          : Howard Zhang
-# Created         : 14th June 2018
-# Last Modified	  : 14th June 2018
-# Version         : 1.0
-# Modifications	  : 
-# Description     : Insertion sorting algorithm.
+
 
 import copy
 from .data import Data

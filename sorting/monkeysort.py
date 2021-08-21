@@ -1,10 +1,4 @@
-# Script Name     : monkeysort.py
-# Author          : Howard Zhang
-# Created         : 14th June 2018
-# Last Modified	  : 14th June 2018
-# Version         : 1.0
-# Modifications	  : 
-# Description     : Monkey sorting algorithm which can do nothing but be funny.
+
 
 import copy
 import random
