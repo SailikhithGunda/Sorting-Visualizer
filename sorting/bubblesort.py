@@ -1,10 +1,4 @@
-# Script Name     : bubblesort.py
-# Author          : Howard Zhang
-# Created         : 14th June 2018
-# Last Modified	  : 15th June 2018
-# Version         : 1.1
-# Modifications	  : 1.1 - Added the variable flag to optimize the algorithm.
-# Description     : Bubble sorting algorithm.
+
 
 import copy
 from .data import Data
