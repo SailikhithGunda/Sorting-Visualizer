@@ -1,2 +1,2 @@
 # Sorting-Visualizer
-Visualize the sorting algorithms.
+Visualize the sorting algorithms in python using matplotlib
